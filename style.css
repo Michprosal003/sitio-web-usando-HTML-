@@ -1,0 +1,122 @@
+
+
+body {
+margin:0;
+padding:0;
+background-color: orangered;
+
+}
+tr{
+background-color: brown;
+
+
+}
+
+
+
+
+.zepolito {
+display: flex;
+width: 100%;
+margin-bottom: 15px;
+
+}
+
+
+.icon {
+padding: 15px;
+background: darkred;
+color: white;
+min-width: 50px;
+text-align: center;
+}
+
+
+.multiverso {
+
+padding: 15px;
+width: 100%;
+outline: none;
+}
+
+.multiveso:focus {
+
+border: 1px solid darkred;
+
+}
+
+
+.udelismo {
+
+background: black;
+border: none;
+color: white;
+cursor: pointer;
+padding: 15px 20px;
+width: 100%;
+opacity: 0.9;
+
+
+
+
+}
+
+.udelismo:hover {
+opacity:1;
+}
+
+
+
+.batman {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+padding: 80px 40px;
+width: 350px;
+height: 570px;
+background: rgba(0,0,0,0.5);
+
+text-align: center;
+
+}
+
+.Panama{
+position: relative;
+margin: 15px 0 0 0;
+padding: 15px;
+
+}
+
+
+img.avatar {
+width: 50%;
+border-radius: 50%;
+
+
+
+}
+
+
+a {
+color: white;
+background-color: darkred;
+padding: 15px;
+display: inline-block;
+text-decoration: none;
+border:1px solid white;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
